@@ -14,7 +14,7 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             </svg>
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white">МеталлКонфиг</h1>
+            <h1 className="text-lg font-bold text-white">Вася Сварщик 🤣</h1>
             <p className="text-xs text-slate-400">Расчёт сварных изделий</p>
           </div>
         </div>
